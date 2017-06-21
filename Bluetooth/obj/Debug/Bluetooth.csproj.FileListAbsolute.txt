@@ -1,0 +1,181 @@
+c:\users\clive\documents\visual studio 2012\Projects\Bluetooth\Bluetooth\bin\Debug\Bluetooth.exe.config
+C:\Users\Clive\Documents\Visual Studio 2012\Projects\Bluetooth\Bluetooth\obj\Debug\Bluetooth.csprojResolveAssemblyReference.cache
+C:\Users\Clive\Documents\Visual Studio 2012\Projects\Bluetooth\Bluetooth\obj\Debug\Bluetooth.Form1.resources
+C:\Users\Clive\Documents\Visual Studio 2012\Projects\Bluetooth\Bluetooth\obj\Debug\Bluetooth.Properties.Resources.resources
+C:\Users\Clive\Documents\Visual Studio 2012\Projects\Bluetooth\Bluetooth\obj\Debug\Bluetooth.csproj.GenerateResource.Cache
+C:\Users\Clive\Documents\Visual Studio 2012\Projects\Bluetooth\Bluetooth\bin\Debug\Bluetooth.exe
+C:\Users\Clive\Documents\Visual Studio 2012\Projects\Bluetooth\Bluetooth\bin\Debug\Bluetooth.pdb
+C:\Users\Clive\Documents\Visual Studio 2012\Projects\Bluetooth\Bluetooth\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Clive\Documents\Visual Studio 2012\Projects\Bluetooth\Bluetooth\obj\Debug\Bluetooth.exe
+C:\Users\Clive\Documents\Visual Studio 2012\Projects\Bluetooth\Bluetooth\obj\Debug\Bluetooth.pdb
+C:\Users\Clive\Downloads\Bluetooth\Bluetooth\bin\Debug\Bluetooth.exe.config
+C:\Users\Clive\Downloads\Bluetooth\Bluetooth\obj\Debug\Bluetooth.exe
+C:\Users\Clive\Downloads\Bluetooth\Bluetooth\obj\Debug\Bluetooth.pdb
+C:\Users\Clive\Downloads\Bluetooth\Bluetooth\bin\Debug\Bluetooth.exe
+C:\Users\Clive\Downloads\Bluetooth\Bluetooth\bin\Debug\Bluetooth.pdb
+C:\Users\Clive\Downloads\Bluetooth\Bluetooth\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Clive\Downloads\Bluetooth\Bluetooth\obj\Debug\Bluetooth.csprojResolveAssemblyReference.cache
+C:\Users\Clive\Downloads\Bluetooth\Bluetooth\obj\Debug\Bluetooth.Form1.resources
+C:\Users\Clive\Downloads\Bluetooth\Bluetooth\obj\Debug\Bluetooth.Properties.Resources.resources
+C:\Users\Clive\Downloads\Bluetooth\Bluetooth\obj\Debug\Bluetooth.csproj.GenerateResource.Cache
+C:\Users\Clive\Downloads\Bluetooth\Bluetooth\obj\Debug\Bluetooth.Form2.resources
+D:\CheFossetta\Taipei_Tech\專題\Bon\專題\Bluetooth\Bluetooth\bin\Debug\Bluetooth.exe.config
+D:\CheFossetta\Taipei_Tech\專題\Bon\專題\Bluetooth\Bluetooth\obj\Debug\Bluetooth.exe
+D:\CheFossetta\Taipei_Tech\專題\Bon\專題\Bluetooth\Bluetooth\obj\Debug\Bluetooth.pdb
+D:\CheFossetta\Taipei_Tech\專題\Bon\專題\Bluetooth0812\Bluetooth\bin\Debug\Bluetooth.exe.config
+D:\CheFossetta\Taipei_Tech\專題\Bon\專題\Bluetooth0812\Bluetooth\obj\Debug\Bluetooth.exe
+D:\CheFossetta\Taipei_Tech\專題\Bon\專題\Bluetooth0812\Bluetooth\obj\Debug\Bluetooth.pdb
+D:\CheFossetta\Taipei_Tech\專題\Bon\專題\Bluetooth0812\Bluetooth\bin\Debug\Bluetooth.exe
+D:\CheFossetta\Taipei_Tech\專題\Bon\專題\Bluetooth0812\Bluetooth\bin\Debug\Bluetooth.pdb
+D:\CheFossetta\Taipei_Tech\專題\Bon\專題\Bluetooth0812\Bluetooth\bin\Debug\InTheHand.Net.Personal.dll
+D:\CheFossetta\Taipei_Tech\專題\Bon\專題\Bluetooth0812\Bluetooth\obj\Debug\Bluetooth.csprojResolveAssemblyReference.cache
+D:\CheFossetta\Taipei_Tech\專題\Bon\專題\Bluetooth0812\Bluetooth\obj\Debug\Bluetooth.Form1.resources
+D:\CheFossetta\Taipei_Tech\專題\Bon\專題\Bluetooth0812\Bluetooth\obj\Debug\Bluetooth.Form2.resources
+D:\CheFossetta\Taipei_Tech\專題\Bon\專題\Bluetooth0812\Bluetooth\obj\Debug\Bluetooth.Properties.Resources.resources
+D:\CheFossetta\Taipei_Tech\專題\Bon\專題\Bluetooth0812\Bluetooth\obj\Debug\Bluetooth.csproj.GenerateResource.Cache
+C:\Users\Clive\Documents\Visual Studio 2012\Projects\Bluetooth0915\Bluetooth\bin\Debug\Bluetooth.exe.config
+C:\Users\Clive\Documents\Visual Studio 2012\Projects\Bluetooth0915\Bluetooth\obj\Debug\Bluetooth.exe
+C:\Users\Clive\Documents\Visual Studio 2012\Projects\Bluetooth0915\Bluetooth\obj\Debug\Bluetooth.pdb
+C:\Users\Clive\Documents\Visual Studio 2012\Projects\Bluetooth0915\Bluetooth\bin\Debug\Bluetooth.exe
+C:\Users\Clive\Documents\Visual Studio 2012\Projects\Bluetooth0915\Bluetooth\bin\Debug\Bluetooth.pdb
+C:\Users\Clive\Documents\Visual Studio 2012\Projects\Bluetooth0915\Bluetooth\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Clive\Documents\Visual Studio 2012\Projects\Bluetooth0915\Bluetooth\obj\Debug\Bluetooth.csprojResolveAssemblyReference.cache
+C:\Users\Clive\Documents\Visual Studio 2012\Projects\Bluetooth0915\Bluetooth\obj\Debug\Bluetooth.Form1.resources
+C:\Users\Clive\Documents\Visual Studio 2012\Projects\Bluetooth0915\Bluetooth\obj\Debug\Bluetooth.Form2.resources
+C:\Users\Clive\Documents\Visual Studio 2012\Projects\Bluetooth0915\Bluetooth\obj\Debug\Bluetooth.Properties.Resources.resources
+C:\Users\Clive\Documents\Visual Studio 2012\Projects\Bluetooth0915\Bluetooth\obj\Debug\Bluetooth.csproj.GenerateResource.Cache
+C:\Users\Ying\Downloads\Bluetooth0916\Bluetooth\bin\Debug\Bluetooth.exe.config
+C:\Users\Ying\Downloads\Bluetooth0916\Bluetooth\obj\Debug\Bluetooth.exe
+C:\Users\Ying\Downloads\Bluetooth0916\Bluetooth\obj\Debug\Bluetooth.pdb
+C:\Users\Ying\Downloads\Bluetooth0916\Bluetooth\obj\Debug\Bluetooth.csprojResolveAssemblyReference.cache
+C:\Users\Ying\Downloads\Bluetooth0916\Bluetooth\obj\Debug\Bluetooth.Form1.resources
+C:\Users\Ying\Downloads\Bluetooth0916\Bluetooth\obj\Debug\Bluetooth.Form2.resources
+C:\Users\Ying\Downloads\Bluetooth0916\Bluetooth\obj\Debug\Bluetooth.Properties.Resources.resources
+C:\Users\Ying\Downloads\Bluetooth0916\Bluetooth\obj\Debug\Bluetooth.csproj.GenerateResource.Cache
+C:\Users\Ying\Downloads\Bluetooth0916\Bluetooth\bin\Debug\Bluetooth.exe
+C:\Users\Ying\Downloads\Bluetooth0916\Bluetooth\bin\Debug\Bluetooth.pdb
+C:\Users\Ying\Downloads\Bluetooth0916\Bluetooth\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Ying\Downloads\Bluetooth0917\Bluetooth\bin\Debug\Bluetooth.exe.config
+C:\Users\Ying\Downloads\Bluetooth0917\Bluetooth\obj\Debug\Bluetooth.exe
+C:\Users\Ying\Downloads\Bluetooth0917\Bluetooth\obj\Debug\Bluetooth.pdb
+C:\Users\Ying\Downloads\Bluetooth0917\Bluetooth\obj\Debug\Bluetooth.csprojResolveAssemblyReference.cache
+C:\Users\Ying\Downloads\Bluetooth0917\Bluetooth\obj\Debug\Bluetooth.Form1.resources
+C:\Users\Ying\Downloads\Bluetooth0917\Bluetooth\obj\Debug\Bluetooth.Form2.resources
+C:\Users\Ying\Downloads\Bluetooth0917\Bluetooth\obj\Debug\Bluetooth.Properties.Resources.resources
+C:\Users\Ying\Downloads\Bluetooth0917\Bluetooth\obj\Debug\Bluetooth.csproj.GenerateResource.Cache
+C:\Users\Ying\Downloads\Bluetooth0917\Bluetooth\bin\Debug\Bluetooth.exe
+C:\Users\Ying\Downloads\Bluetooth0917\Bluetooth\bin\Debug\Bluetooth.pdb
+C:\Users\Ying\Downloads\Bluetooth0917\Bluetooth\bin\Debug\InTheHand.Net.Personal.dll
+D:\CheFossetta\Taipei_Tech\專題\Main\Bluetooth0917\Bluetooth\bin\Debug\Bluetooth.exe.config
+D:\CheFossetta\Taipei_Tech\專題\Main\Bluetooth0917\Bluetooth\obj\Debug\Bluetooth.exe
+D:\CheFossetta\Taipei_Tech\專題\Main\Bluetooth0917\Bluetooth\obj\Debug\Bluetooth.pdb
+D:\CheFossetta\Taipei_Tech\專題\Main\Bluetooth0917\Bluetooth\bin\Debug\Bluetooth.exe
+D:\CheFossetta\Taipei_Tech\專題\Main\Bluetooth0917\Bluetooth\bin\Debug\Bluetooth.pdb
+D:\CheFossetta\Taipei_Tech\專題\Main\Bluetooth0917\Bluetooth\bin\Debug\InTheHand.Net.Personal.dll
+D:\CheFossetta\Taipei_Tech\專題\Main\Bluetooth0917\Bluetooth\obj\Debug\Bluetooth.csprojResolveAssemblyReference.cache
+D:\CheFossetta\Taipei_Tech\專題\Main\Bluetooth0917\Bluetooth\obj\Debug\Bluetooth.Form1.resources
+D:\CheFossetta\Taipei_Tech\專題\Main\Bluetooth0917\Bluetooth\obj\Debug\Bluetooth.Form2.resources
+D:\CheFossetta\Taipei_Tech\專題\Main\Bluetooth0917\Bluetooth\obj\Debug\Bluetooth.Properties.Resources.resources
+D:\CheFossetta\Taipei_Tech\專題\Main\Bluetooth0917\Bluetooth\obj\Debug\Bluetooth.csproj.GenerateResource.Cache
+D:\CheFossetta\Taipei_Tech\專題\Main\Bluetooth0921(垂直角度可畫圖)\Bluetooth\bin\Debug\Bluetooth.exe.config
+D:\CheFossetta\Taipei_Tech\專題\Main\Bluetooth0921(垂直角度可畫圖)\Bluetooth\obj\Debug\Bluetooth.exe
+D:\CheFossetta\Taipei_Tech\專題\Main\Bluetooth0921(垂直角度可畫圖)\Bluetooth\obj\Debug\Bluetooth.pdb
+D:\CheFossetta\Taipei_Tech\專題\Main\Bluetooth0921(垂直角度可畫圖)\Bluetooth\bin\Debug\Bluetooth.exe
+D:\CheFossetta\Taipei_Tech\專題\Main\Bluetooth0921(垂直角度可畫圖)\Bluetooth\bin\Debug\Bluetooth.pdb
+D:\CheFossetta\Taipei_Tech\專題\Main\Bluetooth0921(垂直角度可畫圖)\Bluetooth\bin\Debug\InTheHand.Net.Personal.dll
+D:\CheFossetta\Taipei_Tech\專題\Main\Bluetooth0921(垂直角度可畫圖)\Bluetooth\obj\Debug\Bluetooth.csprojResolveAssemblyReference.cache
+D:\CheFossetta\Taipei_Tech\專題\Main\Bluetooth0921(垂直角度可畫圖)\Bluetooth\obj\Debug\Bluetooth.Form1.resources
+D:\CheFossetta\Taipei_Tech\專題\Main\Bluetooth0921(垂直角度可畫圖)\Bluetooth\obj\Debug\Bluetooth.Form2.resources
+D:\CheFossetta\Taipei_Tech\專題\Main\Bluetooth0921(垂直角度可畫圖)\Bluetooth\obj\Debug\Bluetooth.Properties.Resources.resources
+D:\CheFossetta\Taipei_Tech\專題\Main\Bluetooth0921(垂直角度可畫圖)\Bluetooth\obj\Debug\Bluetooth.csproj.GenerateResource.Cache
+D:\CheFossetta\Taipei_Tech\專題\Main\Bluetooth0921(垂直角度可畫圖+Yaw)\Bluetooth\bin\Debug\Bluetooth.exe.config
+D:\CheFossetta\Taipei_Tech\專題\Main\Bluetooth0921(垂直角度可畫圖+Yaw)\Bluetooth\obj\Debug\Bluetooth.exe
+D:\CheFossetta\Taipei_Tech\專題\Main\Bluetooth0921(垂直角度可畫圖+Yaw)\Bluetooth\obj\Debug\Bluetooth.pdb
+D:\CheFossetta\Taipei_Tech\專題\Main\Bluetooth0921(垂直角度可畫圖+Yaw)\Bluetooth\bin\Debug\Bluetooth.exe
+D:\CheFossetta\Taipei_Tech\專題\Main\Bluetooth0921(垂直角度可畫圖+Yaw)\Bluetooth\bin\Debug\Bluetooth.pdb
+D:\CheFossetta\Taipei_Tech\專題\Main\Bluetooth0921(垂直角度可畫圖+Yaw)\Bluetooth\bin\Debug\InTheHand.Net.Personal.dll
+D:\CheFossetta\Taipei_Tech\專題\Main\Bluetooth0921(垂直角度可畫圖+Yaw)\Bluetooth\obj\Debug\Bluetooth.csprojResolveAssemblyReference.cache
+D:\CheFossetta\Taipei_Tech\專題\Main\Bluetooth0921(垂直角度可畫圖+Yaw)\Bluetooth\obj\Debug\Bluetooth.Form1.resources
+D:\CheFossetta\Taipei_Tech\專題\Main\Bluetooth0921(垂直角度可畫圖+Yaw)\Bluetooth\obj\Debug\Bluetooth.Form2.resources
+D:\CheFossetta\Taipei_Tech\專題\Main\Bluetooth0921(垂直角度可畫圖+Yaw)\Bluetooth\obj\Debug\Bluetooth.Properties.Resources.resources
+D:\CheFossetta\Taipei_Tech\專題\Main\Bluetooth0921(垂直角度可畫圖+Yaw)\Bluetooth\obj\Debug\Bluetooth.csproj.GenerateResource.Cache
+D:\CheFossetta\Taipei_Tech\專題\Main\Bluetooth1006(垂直角度可畫圖+Yaw)\Bluetooth\bin\Debug\Bluetooth.exe.config
+D:\CheFossetta\Taipei_Tech\專題\Main\Bluetooth1006(垂直角度可畫圖+Yaw)\Bluetooth\obj\Debug\Bluetooth.exe
+D:\CheFossetta\Taipei_Tech\專題\Main\Bluetooth1006(垂直角度可畫圖+Yaw)\Bluetooth\obj\Debug\Bluetooth.pdb
+C:\Users\Clive\Downloads\Bluetooth1016(垂直角度可畫圖+Yaw+修正)\Bluetooth1016(垂直角度可畫圖+Yaw+修正)\Bluetooth\bin\Debug\Bluetooth.exe.config
+C:\Users\Clive\Downloads\Bluetooth1016(垂直角度可畫圖+Yaw+修正)\Bluetooth1016(垂直角度可畫圖+Yaw+修正)\Bluetooth\obj\Debug\Bluetooth.exe
+C:\Users\Clive\Downloads\Bluetooth1016(垂直角度可畫圖+Yaw+修正)\Bluetooth1016(垂直角度可畫圖+Yaw+修正)\Bluetooth\obj\Debug\Bluetooth.pdb
+C:\Users\Clive\Downloads\Bluetooth1016(垂直角度可畫圖+Yaw+修正)\Bluetooth1016(垂直角度可畫圖+Yaw+修正)\Bluetooth\bin\Debug\Bluetooth.exe
+C:\Users\Clive\Downloads\Bluetooth1016(垂直角度可畫圖+Yaw+修正)\Bluetooth1016(垂直角度可畫圖+Yaw+修正)\Bluetooth\bin\Debug\Bluetooth.pdb
+C:\Users\Clive\Downloads\Bluetooth1016(垂直角度可畫圖+Yaw+修正)\Bluetooth1016(垂直角度可畫圖+Yaw+修正)\Bluetooth\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Clive\Downloads\Bluetooth1016(垂直角度可畫圖+Yaw+修正)\Bluetooth1016(垂直角度可畫圖+Yaw+修正)\Bluetooth\obj\Debug\Bluetooth.csprojResolveAssemblyReference.cache
+C:\Users\Clive\Downloads\Bluetooth1016(垂直角度可畫圖+Yaw+修正)\Bluetooth1016(垂直角度可畫圖+Yaw+修正)\Bluetooth\obj\Debug\Bluetooth.Form1.resources
+C:\Users\Clive\Downloads\Bluetooth1016(垂直角度可畫圖+Yaw+修正)\Bluetooth1016(垂直角度可畫圖+Yaw+修正)\Bluetooth\obj\Debug\Bluetooth.Form2.resources
+C:\Users\Clive\Downloads\Bluetooth1016(垂直角度可畫圖+Yaw+修正)\Bluetooth1016(垂直角度可畫圖+Yaw+修正)\Bluetooth\obj\Debug\Bluetooth.Properties.Resources.resources
+C:\Users\Clive\Downloads\Bluetooth1016(垂直角度可畫圖+Yaw+修正)\Bluetooth1016(垂直角度可畫圖+Yaw+修正)\Bluetooth\obj\Debug\Bluetooth.csproj.GenerateResource.Cache
+D:\CheFossetta\Taipei_Tech\專題\Main\1030\Bluetooth\bin\Debug\Bluetooth.exe.config
+D:\CheFossetta\Taipei_Tech\專題\Main\1030\Bluetooth\obj\Debug\Bluetooth.exe
+D:\CheFossetta\Taipei_Tech\專題\Main\1030\Bluetooth\obj\Debug\Bluetooth.pdb
+D:\CheFossetta\Taipei_Tech\專題\Main\1030\Bluetooth\obj\Debug\Bluetooth.csprojResolveAssemblyReference.cache
+D:\CheFossetta\Taipei_Tech\專題\Main\1030\Bluetooth\obj\Debug\Bluetooth.Form1.resources
+D:\CheFossetta\Taipei_Tech\專題\Main\1030\Bluetooth\obj\Debug\Bluetooth.Form2.resources
+D:\CheFossetta\Taipei_Tech\專題\Main\1030\Bluetooth\obj\Debug\Bluetooth.Properties.Resources.resources
+D:\CheFossetta\Taipei_Tech\專題\Main\1030\Bluetooth\obj\Debug\Bluetooth.csproj.GenerateResource.Cache
+D:\CheFossetta\Taipei_Tech\專題\Main\1030\Bluetooth\bin\Debug\Bluetooth.exe
+D:\CheFossetta\Taipei_Tech\專題\Main\1030\Bluetooth\bin\Debug\Bluetooth.pdb
+D:\CheFossetta\Taipei_Tech\專題\Main\1030\Bluetooth\bin\Debug\InTheHand.Net.Personal.dll
+D:\CheFossetta\Taipei_Tech\專題\Main\1118\Bluetooth\bin\Debug\Bluetooth.exe.config
+D:\CheFossetta\Taipei_Tech\專題\Main\1118\Bluetooth\obj\Debug\Bluetooth.exe
+D:\CheFossetta\Taipei_Tech\專題\Main\1118\Bluetooth\obj\Debug\Bluetooth.pdb
+D:\CheFossetta\Taipei_Tech\專題\Main\1118\Bluetooth\bin\Debug\Bluetooth.exe
+D:\CheFossetta\Taipei_Tech\專題\Main\1118\Bluetooth\bin\Debug\Bluetooth.pdb
+D:\CheFossetta\Taipei_Tech\專題\Main\1118\Bluetooth\bin\Debug\InTheHand.Net.Personal.dll
+D:\CheFossetta\Taipei_Tech\專題\Main\1118\Bluetooth\obj\Debug\Bluetooth.csprojResolveAssemblyReference.cache
+D:\CheFossetta\Taipei_Tech\專題\Main\1118\Bluetooth\obj\Debug\Bluetooth.Form1.resources
+D:\CheFossetta\Taipei_Tech\專題\Main\1118\Bluetooth\obj\Debug\Bluetooth.Form2.resources
+D:\CheFossetta\Taipei_Tech\專題\Main\1118\Bluetooth\obj\Debug\Bluetooth.Properties.Resources.resources
+D:\CheFossetta\Taipei_Tech\專題\Main\1118\Bluetooth\obj\Debug\Bluetooth.csproj.GenerateResource.Cache
+D:\CheFossetta\Taipei_Tech\專題\Main\1130\Bluetooth\bin\Debug\Bluetooth.exe.config
+D:\CheFossetta\Taipei_Tech\專題\Main\1130\Bluetooth\obj\Debug\Bluetooth.exe
+D:\CheFossetta\Taipei_Tech\專題\Main\1130\Bluetooth\obj\Debug\Bluetooth.pdb
+D:\CheFossetta\Taipei_Tech\專題\Main\1130\Bluetooth\bin\Debug\Bluetooth.exe
+D:\CheFossetta\Taipei_Tech\專題\Main\1130\Bluetooth\bin\Debug\Bluetooth.pdb
+D:\CheFossetta\Taipei_Tech\專題\Main\1130\Bluetooth\bin\Debug\InTheHand.Net.Personal.dll
+D:\CheFossetta\Taipei_Tech\專題\Main\1130\Bluetooth\obj\Debug\Bluetooth.csprojResolveAssemblyReference.cache
+D:\CheFossetta\Taipei_Tech\專題\Main\1130\Bluetooth\obj\Debug\Bluetooth.Form1.resources
+D:\CheFossetta\Taipei_Tech\專題\Main\1130\Bluetooth\obj\Debug\Bluetooth.Form2.resources
+D:\CheFossetta\Taipei_Tech\專題\Main\1130\Bluetooth\obj\Debug\Bluetooth.Properties.Resources.resources
+D:\CheFossetta\Taipei_Tech\專題\Main\1130\Bluetooth\obj\Debug\Bluetooth.csproj.GenerateResource.Cache
+D:\CheFossetta\Taipei_Tech\專題\Main\1206\Bluetooth\bin\Debug\Bluetooth.exe.config
+D:\CheFossetta\Taipei_Tech\專題\Main\1206\Bluetooth\obj\Debug\Bluetooth.exe
+D:\CheFossetta\Taipei_Tech\專題\Main\1206\Bluetooth\obj\Debug\Bluetooth.pdb
+D:\CheFossetta\Taipei_Tech\專題\Main\1206\Bluetooth\bin\Debug\Bluetooth.exe
+D:\CheFossetta\Taipei_Tech\專題\Main\1206\Bluetooth\bin\Debug\Bluetooth.pdb
+D:\CheFossetta\Taipei_Tech\專題\Main\1206\Bluetooth\bin\Debug\InTheHand.Net.Personal.dll
+D:\CheFossetta\Taipei_Tech\專題\Main\1206\Bluetooth\obj\Debug\Bluetooth.csprojResolveAssemblyReference.cache
+D:\CheFossetta\Taipei_Tech\專題\Main\1206\Bluetooth\obj\Debug\Bluetooth.Form1.resources
+D:\CheFossetta\Taipei_Tech\專題\Main\1206\Bluetooth\obj\Debug\Bluetooth.Form2.resources
+D:\CheFossetta\Taipei_Tech\專題\Main\1206\Bluetooth\obj\Debug\Bluetooth.Properties.Resources.resources
+D:\CheFossetta\Taipei_Tech\專題\Main\1206\Bluetooth\obj\Debug\Bluetooth.csproj.GenerateResource.Cache
+D:\CheFossetta\Taipei_Tech\專題\Main\1207\Bluetooth\bin\Debug\Bluetooth.exe.config
+D:\CheFossetta\Taipei_Tech\專題\Main\1207\Bluetooth\obj\Debug\Bluetooth.exe
+D:\CheFossetta\Taipei_Tech\專題\Main\1207\Bluetooth\obj\Debug\Bluetooth.pdb
+D:\CheFossetta\Taipei_Tech\專題\Main\1207\Bluetooth\bin\Debug\Bluetooth.exe
+D:\CheFossetta\Taipei_Tech\專題\Main\1207\Bluetooth\bin\Debug\Bluetooth.pdb
+D:\CheFossetta\Taipei_Tech\專題\Main\1207\Bluetooth\bin\Debug\InTheHand.Net.Personal.dll
+D:\CheFossetta\Taipei_Tech\專題\Main\1207\Bluetooth\obj\Debug\Bluetooth.csprojResolveAssemblyReference.cache
+D:\CheFossetta\Taipei_Tech\專題\Main\1207\Bluetooth\obj\Debug\Bluetooth.Form1.resources
+D:\CheFossetta\Taipei_Tech\專題\Main\1207\Bluetooth\obj\Debug\Bluetooth.Form2.resources
+D:\CheFossetta\Taipei_Tech\專題\Main\1207\Bluetooth\obj\Debug\Bluetooth.Properties.Resources.resources
+D:\CheFossetta\Taipei_Tech\專題\Main\1207\Bluetooth\obj\Debug\Bluetooth.csproj.GenerateResource.Cache
+D:\CheFossetta\Taipei_Tech\專題\Main\1208(BIG)\Bluetooth\bin\Debug\Bluetooth.exe.config
+D:\CheFossetta\Taipei_Tech\專題\Main\1208(BIG)\Bluetooth\obj\Debug\Bluetooth.exe
+D:\CheFossetta\Taipei_Tech\專題\Main\1208(BIG)\Bluetooth\obj\Debug\Bluetooth.pdb
+D:\CheFossetta\Taipei_Tech\專題\Main\1208(BIG)\Bluetooth\bin\Debug\Bluetooth.exe
+D:\CheFossetta\Taipei_Tech\專題\Main\1208(BIG)\Bluetooth\bin\Debug\Bluetooth.pdb
+D:\CheFossetta\Taipei_Tech\專題\Main\1208(BIG)\Bluetooth\bin\Debug\InTheHand.Net.Personal.dll
+D:\CheFossetta\Taipei_Tech\專題\Main\1208(BIG)\Bluetooth\obj\Debug\Bluetooth.csprojResolveAssemblyReference.cache
+D:\CheFossetta\Taipei_Tech\專題\Main\1208(BIG)\Bluetooth\obj\Debug\Bluetooth.Form1.resources
+D:\CheFossetta\Taipei_Tech\專題\Main\1208(BIG)\Bluetooth\obj\Debug\Bluetooth.Form2.resources
+D:\CheFossetta\Taipei_Tech\專題\Main\1208(BIG)\Bluetooth\obj\Debug\Bluetooth.Properties.Resources.resources
+D:\CheFossetta\Taipei_Tech\專題\Main\1208(BIG)\Bluetooth\obj\Debug\Bluetooth.csproj.GenerateResource.Cache
